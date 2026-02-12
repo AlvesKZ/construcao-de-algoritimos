@@ -12,5 +12,7 @@ int main() {
         num[i] = i;
     }
 
-    cout << num[1] << endl;
+    for (int i=0; i < tam; i++) {
+        cout << num[i] << endl;
+    }
 }
