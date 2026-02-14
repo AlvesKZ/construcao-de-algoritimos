@@ -1,5 +1,5 @@
-##Contrução de algoritimos
+# Construção de algorítimos
 
-Arquivos do curso Construção de algoritimos: Fundamentos e Prática
+Arquivos do curso Construção de algorítimos: Fundamentos e Prática
 
-disponivel em: https://youtube.com/playlist?list=PLx4x_zx8csUir5pbqRDgFbVS-2SG7JiOu&si=fePsAxVpqjubEJbR
+disponível em: https://youtube.com/playlist?list=PLx4x_zx8csUir5pbqRDgFbVS-2SG7JiOu&si=fePsAxVpqjubEJbR
